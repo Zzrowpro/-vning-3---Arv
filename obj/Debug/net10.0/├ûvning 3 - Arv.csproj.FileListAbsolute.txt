@@ -1,0 +1,15 @@
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\bin\Debug\net10.0\├ûvning 3 - Arv.exe
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\bin\Debug\net10.0\├ûvning 3 - Arv.deps.json
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\bin\Debug\net10.0\├ûvning 3 - Arv.runtimeconfig.json
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\bin\Debug\net10.0\├ûvning 3 - Arv.dll
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\bin\Debug\net10.0\├ûvning 3 - Arv.pdb
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.AssemblyInfoInputs.cache
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.AssemblyInfo.cs
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.csproj.CoreCompileInputs.cache
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.sourcelink.json
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.dll
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\refint\├ûvning 3 - Arv.dll
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.pdb
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\├ûvning 3 - Arv.genruntimeconfig.cache
+C:\Users\esaxi\Documents\Visual Studio Projects\School Projects\├ûvning 3 - Arv\obj\Debug\net10.0\ref\├ûvning 3 - Arv.dll
