@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Övning 3 - Arv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1eda1cab23e082cca2303b6a279b6bc490c994c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7fbf7c59eb248b4a29baa0f9a5e443410d4c8f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Övning 3 - Arv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Övning 3 - Arv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

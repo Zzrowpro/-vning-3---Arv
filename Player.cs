@@ -1,21 +1,13 @@
-public class Entity : CollidingObject // Instead of having player and enemy in different classes we can just use a single entity class
-{
-    public int Dmg{get; private set;}
-    public int Hp{get; private set;}
-
-    public Entity(string name, string tag, int x, int y, int width, int height, int dmg, int hp) : base(name, tag, x, y, width, height)
+public class Player : Entity
+{ 
+    public int Score{get; private set;}
+    public Player(string name, string tag, int x, int y, int width, int height, int dmg, int hp, int score) : base(name, tag, x, y, width, height, dmg, hp)
     {
-        Dmg = dmg;
-        Hp = hp;
+        Score = score;
     }
 
-    public void TakeDamage(int dmg) //Entity takes damage
+    public void IncreaseScore(int score)
     {
-        Hp -= dmg;
-    }
-
-    public void DealDamage(Entity entity) //Entity deals damage
-    {
-        entity.TakeDamage(Dmg);
+        Score = score;
     }
 }

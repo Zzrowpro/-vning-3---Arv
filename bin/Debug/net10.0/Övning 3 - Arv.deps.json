@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Övning 3 - Arv/1.0.0": {
+        "runtime": {
+          "Övning 3 - Arv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Övning 3 - Arv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
