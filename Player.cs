@@ -1,4 +1,4 @@
-public class Entity : CollidingObject
+public class Entity : CollidingObject // Instead of having player and enemy in different classes we can just use a single entity class
 {
     public int Dmg{get; private set;}
     public int Hp{get; private set;}
@@ -9,12 +9,12 @@ public class Entity : CollidingObject
         Hp = hp;
     }
 
-    public void TakeDamage(int dmg)
+    public void TakeDamage(int dmg) //Entity takes damage
     {
         Hp -= dmg;
     }
 
-    public void DealDamage(Entity entity)
+    public void DealDamage(Entity entity) //Entity deals damage
     {
         entity.TakeDamage(Dmg);
     }

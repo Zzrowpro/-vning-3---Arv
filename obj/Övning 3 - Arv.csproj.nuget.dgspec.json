@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\esaxi\\Documents\\Visual Studio Projects\\School Projects\\Övning 3 - Arv\\Övning 3 - Arv.csproj": {}
+    "C:\\Users\\exaltolamibosi.daod\\Documents\\Visual S projects\\Övning 3 - Arv\\-vning-3---Arv\\Övning 3 - Arv.csproj": {}
   },
   "projects": {
-    "c:\\Users\\esaxi\\Documents\\Visual Studio Projects\\School Projects\\Övning 3 - Arv\\Övning 3 - Arv.csproj": {
+    "C:\\Users\\exaltolamibosi.daod\\Documents\\Visual S projects\\Övning 3 - Arv\\-vning-3---Arv\\Övning 3 - Arv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\esaxi\\Documents\\Visual Studio Projects\\School Projects\\Övning 3 - Arv\\Övning 3 - Arv.csproj",
+        "projectUniqueName": "C:\\Users\\exaltolamibosi.daod\\Documents\\Visual S projects\\Övning 3 - Arv\\-vning-3---Arv\\Övning 3 - Arv.csproj",
         "projectName": "Övning 3 - Arv",
-        "projectPath": "c:\\Users\\esaxi\\Documents\\Visual Studio Projects\\School Projects\\Övning 3 - Arv\\Övning 3 - Arv.csproj",
-        "packagesPath": "C:\\Users\\esaxi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\esaxi\\Documents\\Visual Studio Projects\\School Projects\\Övning 3 - Arv\\obj\\",
+        "projectPath": "C:\\Users\\exaltolamibosi.daod\\Documents\\Visual S projects\\Övning 3 - Arv\\-vning-3---Arv\\Övning 3 - Arv.csproj",
+        "packagesPath": "C:\\Users\\exaltolamibosi.daod\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\exaltolamibosi.daod\\Documents\\Visual S projects\\Övning 3 - Arv\\-vning-3---Arv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\esaxi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\exaltolamibosi.daod\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
